@@ -1,0 +1,23 @@
+.h {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('../src/images/r\ layout.jpg'); 
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+  }
+  
+  .h2 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .h2 p {
+    margin: 0;
+  }
+  
